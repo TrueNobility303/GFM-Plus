@@ -1,8 +1,9 @@
 # GFM_Plus
 
-Improved Gradient Free Methods with Recusive Estimators for Nonconvex Nonsmooth Optimization
+Codes for ``Faster Gradient-Free Algorithms for Nonsmooth Nonconvex Stochastic Optimization'' in ICML 2023
 
-To reproduce the experments, run
+## Nonconvex SVM
+To reproduce the experments of nonconvex SVM, run
 
 ```
 python -u train.py --data_file a9a/w8a/covtype/ijcnn --epochs=10
@@ -11,3 +12,6 @@ python -u train.py --data_file phishing --epochs=200
 ```
 
 The datasets used in our experiments are available at https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+## Black-Box Attack on CNN
+
