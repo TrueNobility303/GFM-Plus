@@ -17,12 +17,12 @@ The datasets used in our experiments are available at https://www.csie.ntu.edu.t
 
 ## Black-Box Attack on CNN
 
-To reproduce the experiments on MNIST, please download the MNIST dataset in ''args.data_dir'' and run
+To reproduce the experiments on MNIST, please download the MNIST dataset in `args.data_dir` and run
 ```
 cd ./Attack
 python -u AttackMNIST.py
 ```
-You can also download the dataset automatically by setting  ``download=True'' in the following code:
+You can also download the dataset automatically by setting  `download=True` in the following code:
 ```
 datasets.MNIST(root=args.data_dir, train=False, transform=test_transform, download=True)
 ```
