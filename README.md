@@ -17,9 +17,11 @@ The datasets used in our experiments are available at https://www.csie.ntu.edu.t
 
 ## Black-Box Attack on CNN
 
-To reproduce the experiments on MNIST , run
+To reproduce the experiments on MNIST, run
 ```
 cd ./Attack
 python -u AttackMnist.py
-'''
+```
+
+
 
