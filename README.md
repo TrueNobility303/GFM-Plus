@@ -1,6 +1,6 @@
 # GFM-Plus
 
-Codes for ``Faster Gradient-Free Algorithms for Nonsmooth Nonconvex Stochastic Optimization'' in ICML 2023.
+[ICML 2023] Faster Gradient-Free Algorithms for Nonsmooth Nonconvex Stochastic Optimization 
 
 ## Nonconvex SVM
 
