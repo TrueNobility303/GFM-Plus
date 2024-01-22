@@ -1,7 +1,5 @@
 # GFM-Plus
 
-[ICML 2023] Faster Gradient-Free Algorithms for Nonsmooth Nonconvex Stochastic Optimization 
-
 ## Nonconvex SVM
 
 To reproduce the experiments, run
