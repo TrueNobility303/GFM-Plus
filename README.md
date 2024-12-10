@@ -1,5 +1,7 @@
 # GFM-Plus
 
+Offical codes for "Faster Gradient-Free Algorithms for Nonsmooth Nonconvex Stochastic Optimization".
+
 ## Nonconvex SVM
 
 To reproduce the experiments, run
